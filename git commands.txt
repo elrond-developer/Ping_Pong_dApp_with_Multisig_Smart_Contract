@@ -1,0 +1,185 @@
+ 1537  git init
+ 1538  git status
+ 1539  git add .
+ 1540  git status
+ 1541  git commit -m "initial commit"
+ 1542  git config --global user.email "elrond.developer@gmail.com"
+ 1543  git config --global user.name "elrond-developer"
+ 1544  git status
+ 1545  git remote add origin https://github.com/elrond-developer/Ping_Pong_dApp_with_Multisig_Smart_Contract.git
+ 1546  git push
+ 1547  git push --set-upstream origin master
+ 1548  git push --set-upstream origin master https://github.com/elrond-developer/Ping_Pong_dApp_with_Multisig_Smart_Contract.git
+ 1549  git branch 
+ 1550  clear
+ 1551  git init
+ 1552  git addd .
+ 1553  git add .
+ 1554  git commit -m "first commit"
+ 1555  git remote add origin https://github.com/elrond-developer/Ping_Pong_dApp_with_Multisig_Smart_Contract.git
+ 1556  git remote -v
+ 1557  git push origin master
+ 1558  git push origin main
+ 1559  git push origin master --force
+ 1560  git push origin main
+ 1561  git init
+ 1562  git add .
+ 1563  git commit -m "first commit"
+ 1564  git remote add origin https://github.com/elrond-developer/Ping_Pong_dApp_with_Multisig_Smart_Contract.git
+ 1565  git remote -v
+ 1566  git push origin main
+ 1567  git push origin main --force
+ 1568  git init --initial-brance=main
+ 1569  git push -u origin main
+ 1570  git push -u origin
+ 1571  git branch -m master main
+ 1572  git push -u origin main
+ 1573  git rebase origin/main
+ 1574  git push origin Ping_Pong_dApp_with_Multisig_Smart_Contract
+ 1575  git push origin master
+ 1576  git push origin main
+ 1577  git pull
+ 1578  git pull https://github.com/elrond-developer/Ping_Pong_dApp_with_Multisig_Smart_Contract.git main
+ 1579  git config pull.rebase false
+ 1580  git pull https://github.com/elrond-developer/Ping_Pong_dApp_with_Multisig_Smart_Contract.git main
+ 1581  git push origin main
+ 1582  git push origin master
+ 1583  cleawr
+ 1584  clear
+ 1585  git init
+ 1586  git add .
+ 1587  git commit -m "first commit"
+ 1588  git remote -v
+ 1589  git push origin master
+ 1590  git add .
+ 1591  git push origin master
+ 1592  git init
+ 1593  git push origin master
+ 1594  git add .
+ 1595  git push
+ 1596  git push origin master
+ 1597  git push origin master --force
+ 1598  clear
+ 1599  git pull origin master
+ 1600  git branch -m main master
+ 1601  git fetch origin
+ 1602  git branch -u origin/master master
+ 1603  git remote set-head origin -a
+ 1604  git init
+ 1605  git add .
+ 1606  git commit -m "first commit"
+ 1607  git branch -M main
+ 1608  git remote add origin https://github.com/elrond-developer/Ping_Pong_dApp_with_Multisig_Smart_Contract.git
+ 1609  git push -u origin main
+ 1610  #wtf did i do
+ 1611  ll
+ 1612  git rm --cache ping-pong
+ 1613  git rm --cache contract
+ 1614  git rm --cache dapp
+ 1615  git push -u origin main
+ 1616  git commit -m "removed gitlinks"
+ 1617  git push -u origin main
+ 1618  cleawr
+ 1619  clear
+ 1620  history
+ 1621  git branch -m main master
+ 1622  git fetch origin
+ 1623  git init
+ 1624  git add .
+ 1625  cd dapp/
+ 1626  ls
+ 1627  ll
+ 1628  rm .git/
+ 1629  rm .git/ -r
+ 1630  rm .git/ -R
+ 1631  ls
+ 1632  ll
+ 1633  cd ..
+ 1634  git add .
+ 1635  git commit -m "removed gitlinks"
+ 1636  git push -u origin main
+ 1637  git push -u origin master
+ 1638  cd ..
+ 1639  git add explore_dapp
+ 1640  cd explore_dapp/
+ 1641  ls
+ 1642  git add .
+ 1643  git rm --cached portal
+ 1644  git commit
+ 1645  git push
+ 1646  git push main
+ 1647  git push master
+ 1648  clear
+ 1649  git init
+ 1650  git add .
+ 1651  git commit -m "git hub is so confusing"
+ 1652  git push
+ 1653  git remote add origin https://github.com/elrond-developer/Ping_Pong_dApp_with_Multisig_Smart_Contract.git
+ 1654  git push origin master
+ 1655  git push origin main
+ 1656  git pull --rebase
+ 1657  git push origin master
+ 1658  git add .
+ 1659  git stash save
+ 1660  git pull -r
+ 1661  git stash pop
+ 1662  git stash apply
+ 1663  git branch --show-current
+ 1664  git branch origin main
+ 1665  git checkout main
+ 1666  git push
+ 1667  git init
+ 1668  git add .
+ 1669  git push
+ 1670  git inti
+ 1671  git init
+ 1672  git add contract dapp wallets
+ 1673  git commit -m "work for the love of god"
+ 1674  git push -u origin master
+ 1675  git push -u origin main
+ 1676  git push origin main
+ 1677  cd contract/
+ 1678  ls
+ 1679  ll
+ 1680  rm .git
+ 1681  cd ping-pong/
+ 1682  ll
+ 1683  clear
+ 1684  cd ..
+ 1685  git add contract
+ 1686  git push origin main
+ 1687  git rm --cached contract
+ 1688  git add contract
+ 1689  git submodule add contract
+ 1690  git submodule add https://github.com/elrond-developer/Ping_Pong_dApp_with_Multisig_Smart_Contract.git contract
+ 1691  git add contract/
+ 1692  git add contract
+ 1693  git push
+ 1694  git commit 
+ 1695  git add contract
+ 1696  git commit -m "
+ 1697  help"
+ 1698  git commit -a
+ 1699  git rm -rf --cached contract
+ 1700  git add contract
+ 1701  git add contract2
+ 1702  cd contract/
+ 1703  git init
+ 1704  git add .
+ 1705  git remote add origin https://github.com/elrond-developer/Ping_Pong_dApp_with_Multisig_Smart_Contract.git
+ 1706  git push -u origin main
+ 1707  git remote rm origin
+ 1708  git remote -v 
+ 1709  git add .
+ 1710  git push -u origin main
+ 1711  cd ..
+ 1712  ls
+ 1713  git add contract
+ 1714  git commit -m "another attempt"
+ 1715  git push -u origin main
+ 1716  ls
+ 1717  cd contract/
+ 1718  ls
+ 1719  git init 
+ 1720  git add .
+ 1721  history
